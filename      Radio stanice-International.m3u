@@ -1,0 +1,1005 @@
+#EXTM3U
+#EXTINF:-1,    Melody Vintage Radio - France
+https://ice.creacast.com/melody2
+#EXTINF:-1,   ALT2K Radio_USA
+https://stream.revma.ihrhls.com/zc7727.m3u
+#EXTINF:-1,   Audio noir 89.7 FM-Chicago,IL_USA
+http://streams.audionoir.com:8000/noir?nocache/《taki028》
+#EXTINF:-1,   Boost Radio 97.5 FM - Chicago, IL_USA
+https://boost1019.streamguys1.com/chicago/live-aac
+#EXTINF:-1,   Classic Rock Florida
+https://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
+#EXTINF:-1,   EWTN Catholic Radio-USA
+https://ewtn-sgrewind.streamguys1.com/sgrewind/english/playlist.m3u8
+#EXTINF:-1,   FM Omni-Channel - Chicago, IL_USA
+https://s7.yesstreaming.net/stream/8046
+#EXTINF:-1,   FOX Sports Radio - USA
+https://stream.revma.ihrhls.com/zc4732.m3u
+#EXTINF:-1,   Family radio(East)
+https://ais-sa3.cdnstream1.com/2640_64.aac
+#EXTINF:-1,   Fox news-USA
+http://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1,   K-LOVE Radio - Positive, Encouraging_USA
+https://maestro.emfcdn.com/stream_for/k-love/web/aac
+#EXTINF:-1,   K-Love positive encouraging-USA
+https://maestro.emfcdn.com/stream_for/k-love/web/aac
+#EXTINF:-1,   KATC Cat country 95.1-Colorado Springs CO_USA
+https://playerservices.streamtheworld.com/pls/KATCFM.pls
+#EXTINF:-1,   KAVA Que bueno-Pueblo/Colorado Springs CO_USA
+http://ca3.rcast.net:8038/;stream.mp3
+#EXTINF:-1,   KCKK74-Christian radio_USA
+http://radio74.dyndns.org:8000/radio74stlint.mp3
+#EXTINF:-1,   KCME Classical 88.7-Colorado Springs CO_USA
+https://ice9.securenetsystems.net/KCME.m3u
+#EXTINF:-1,   KCME-HD2 Jazz 93.5-Colorado Springs CO_USA
+https://ice10.securenetsystems.net/KCME2.m3u
+#EXTINF:-1,   KCSM Jazz 91.1-San Mateo CA_USA
+https://ice5.securenetsystems.net/KCSM.m3u
+#EXTINF:-1,   KIIS 102.7-Los Angeles CA_USA
+https://stream.revma.ihrhls.com/zc185.m3u
+#EXTINF:-1,   KKLI Sunny 106.3-Colorado Springs CO_USA
+https://stream.revma.ihrhls.com/zc357.m3u
+#EXTINF:-1,   KNKX 88.5 FM-HD2 Jazz 24 - Seattle, WA_USA
+https://live.wostreaming.net/playlist/ppm-jazz24aac-ibc1.m3u
+#EXTINF:-1,   KQSC Mountain country 1530AM/107.3FM-Colorado Springs_USA
+https://ice10.securenetsystems.net/KQSC.m3u
+#EXTINF:-1,   KRYE FM Tigre radio-Pueblo/Colorado Springs CO_USA
+https://playerservices.streamtheworld.com/pls/KRYEFM.pls
+#EXTINF:-1,   KSEV The voice of Texas 700 AM-Houston TX_USA
+https://live.wostreaming.net/playlist/ksevradio-ksevammp3-ibc1.m3u
+#EXTINF:-1,   KSIR Farm radio 1019AM-Ft.Morgan Co_USA
+http://newerastreaming.com:9016/;stream.mp3
+#EXTINF:-1,   KWOX Froggy 99.9-Fargo ND_USA
+https://playerservices.streamtheworld.com/pls/KVOXFM.pls
+#EXTINF:-1,   KXLW Moose 96.3-Anchorage AK_USA
+https://ice8.securenetsystems.net/KXLW.m3u
+#EXTINF:-1,   KZNT The answer 1460AM-Colorado Springs CO_USA
+https://playerservices.streamtheworld.com/pls/KZNTAM.pls
+#EXTINF:-1,   Kosi 101.1-Denver CO_USA
+https://playerservices.streamtheworld.com/pls/KOSIFM.pls
+#EXTINF:-1,   Majesty Radio_USA
+https://playerservices.streamtheworld.com/pls/IM_2.pls
+#EXTINF:-1,   Radio Moody (Español)_USA
+https://playerservices.streamtheworld.com/pls/WMBIAM.pls
+#EXTINF:-1,   Radio Nueva Vida-USA
+https://ice10.securenetsystems.net/KMRO.m3u
+#EXTINF:-1,   Real Oldies Radio_USA
+https://stream.revma.ihrhls.com/zc4717.m3u
+#EXTINF:-1,   Relevant Radio - USA
+https://playerservices.streamtheworld.com/pls/RR_MAIN.pls
+#EXTINF:-1,   Revolution 93.5-Miami FL_USA
+https://stream.revma.ihrhls.com/zc6171.m3u
+#EXTINF:-1,   Shine FM-Chicago,IL_USA
+http://mist.olivet.edu:8000/shine128?nocache/《taki028》
+#EXTINF:-1,   Smooth Jazz Radio Network-USA
+https://stream.revma.ihrhls.com/zc4242.m3u
+#EXTINF:-1,   TUDN Radio,Latino-USA
+https://live.wostreaming.net/playlist/univision-deportesaac-imc2.m3u
+#EXTINF:-1,   The Breeze - Relaxing Favorites_USA
+https://stream.revma.ihrhls.com/zc8143.m3u
+#EXTINF:-1,   VCY America Radio Network_USA
+https://playerservices.streamtheworld.com/pls/WVCYFM.pls
+#EXTINF:-1,   Vocalo 89.5-91.1 FM - Chicago, IL_USA
+https://stream.wbez.org/vocalo128.m3u
+#EXTINF:-1,   W264BF Calvary Radio-Valparaiso,IN_USA
+http://radio3.citrus3.com:8024/;stream.mp3
+#EXTINF:-1,   WAUK 94.5 FM - ESPN Milwaukee_USA
+https://live.wostreaming.net/playlist/goodkarma-wktifmmp3-ibc2.m3u
+#EXTINF:-1,   WAWE Air1 Radio - The Worship Station_USA
+https://maestro.emfcdn.com/stream_for/air1/web/aac
+#EXTINF:-1,   WBEZ Public Radio 91.5 FM - Chicago, IL_USA
+https://stream.wbez.org/wbez128.mp3?nocache/《taki028》
+#EXTINF:-1,   WBGL 91.7 FM - Champaign, IL_USA
+https://wbgl-ice.streamguys1.com/WBGL-AAC
+#EXTINF:-1,   WCHI Rock 95.5 FM - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc857.m3u
+#EXTINF:-1,   WCHI-HD2 Big 95.5 - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc8731.m3u
+#EXTINF:-1,   WCKG 1530 AM/102.3 FM - Elmhurst, IL_USA
+https://ice7.securenetsystems.net/WCKG.m3u
+#EXTINF:-1,   WCPT Progressive Talk 820 AM - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WCPTAM.pls
+#EXTINF:-1,   WCPY Polski FM 92.7 - Chicago, IL_USA
+https://usa8.fastcast4u.com/proxy/live?mp=/1
+#EXTINF:-1,   WCRX Underground 88.1 FM-Chicago_USA
+http://wcrx.streamguys1.com/live?nocache/《taki028》
+#EXTINF:-1,   WDCB Jazz 90.9 FM - Glen Ellyn, IL_USA
+https://wdcb-ice.streamguys1.com/wdcb128
+#EXTINF:-1,   WDDW 104.7 FM,HD 2 La Z-Milwaukee,WI_USA
+http://bustosradio.com:8026/wddwhd2
+#EXTINF:-1,   WERV The River 95.9 FM - Aurora, IL_USA
+https://live.wostreaming.net/playlist/alphacorporate-wervfmmp3-ibc4.m3u
+#EXTINF:-1,   WFDL Sunny 97.7 FM - Fond du Lac, WI_USA
+https://ice24.securenetsystems.net/WFDL.m3u
+#EXTINF:-1,   WFMT Classical 98.7 FM - Chicago, IL_USA
+http://wfmt.streamguys1.com/main-mp3.m3u
+#EXTINF:-1,   WGBK 88.5 FM - Glenview, IL_USA
+http://ic.streann.com:8000/glenbrook225?nocache/《taki028》
+#EXTINF:-1,   WGCI Hip-Hop & R&B 107.5 FM - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc841.m3u
+#EXTINF:-1,   WGN Radio 720 AM - Chicago, IL_USA
+https://live.wostreaming.net/playlist/wgnam-wgnammp3-ibc2.m3u
+#EXTINF:-1,   WHCM Harper Radio 88.3 FM - Palatine, IL_USA
+https://ice3.securenetsystems.net/WHCM.m3u
+#EXTINF:-1,   WHPK Community radio 88.5 FM-Chicago_USA
+http://www.whpk.org:8000/stream
+#EXTINF:-1,   WIIT College Radio 88.9 FM - Chicago, IL_USA
+https://icecast.iit.edu/WIITstream.m3u
+#EXTINF:-1,   WILL 580 AM - Illinois Public Media_USA
+https://icecast.will.illinois.edu/WILL-mp3-48.m3u
+#EXTINF:-1,   WIND The Answer 560 AM - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WINDAM.pls
+#EXTINF:-1,   WISN News Talk 1130 AM - Milwaukee, WI_USA
+https://stream.revma.ihrhls.com/zc4245.m3u
+#EXTINF:-1,   WJJO Solid Rock 94.1 FM - Madison, WI_USA
+https://playerservices.streamtheworld.com/pls/WJJOFM.pls
+#EXTINF:-1,   WJPC 99.1 FM - J99 Jams - Chicago, IL_USA
+https://usa14.fastcast4u.com/proxy/urbanmed?mp=/1
+#EXTINF:-1,   WJTI Smooth Jazz 102.5 FM - Milwaukee, WI_USA
+https://streaming.live365.com/a34543
+#EXTINF:-1,   WKKC 89.3 FM - Chicago, IL_USA
+https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1
+#EXTINF:-1,   WKKV V100.7 Jams - Milwaukee, WI_USA
+https://stream.revma.ihrhls.com/zc2673.m3u
+#EXTINF:-1,   WKQX Q101 - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WKQXFM.pls
+#EXTINF:-1,   WKQX-HD2 - The Loop - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WLUPFM.pls
+#EXTINF:-1,   WKSC 103.5 Kiss FM - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc849.m3u
+#EXTINF:-1,   WKTA Радио Резонанс 1330 AM - Чикаго_USA
+http://stream.ethnicmedia.us:8000/stream.m3u
+#EXTINF:-1,   WLDB B93.3 FM - Milwaukee, WI_USA
+https://ais-sa1.streamon.fm/7249_48k.aac
+#EXTINF:-1,   WLIT 93.9 Lite FM - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc853.m3u
+#EXTINF:-1,   WLKG The Lake 96.1 FM - Lake Geneva, WI_USA
+http://173.193.205.96:7230/listen.pls?sid=1
+#EXTINF:-1,   WLPN Lumpen Radio 105.5 FM - Chicago, IL_USA
+https://radio.mensajito.mx/lumpenradio
+#EXTINF:-1,   WLS 890 AM - Chicago's Talk Leader_USA
+https://playerservices.streamtheworld.com/pls/WLSAM.pls
+#EXTINF:-1,   WLS Classic Hits 94.7 FM - Chicago, IL
+https://playerservices.streamtheworld.com/pls/WLSFM.pls
+#EXTINF:-1,   WLTL 88.1 FM - La Grange, IL_USA
+https://ice24.securenetsystems.net/WLTL.m3u
+#EXTINF:-1,   WLUM 102.1 FM - Milwaukee, WI_USA
+https://ais-sa1.streamon.fm/7250_48k.aac
+#EXTINF:-1,   WLUW 88.7 FM - Chicago Sound Alliance_USA
+https://wluw.streamguys1.com/stream.mp3.m3u
+#EXTINF:-1,   WLW News Radio 700 AM - Cincinnati, OH_USA
+https://stream.revma.ihrhls.com/zc1713.m3u
+#EXTINF:-1,   WMBI Moody Radio 90.1 FM - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WMBIFM.pls
+#EXTINF:-1,   WMFN 640 AM - Chicago's BIN(Black information network)_USA
+https://stream.revma.ihrhls.com/zc9553.m3u
+#EXTINF:-1,   WMIL Country 106.1 FM - Milwaukee, WI_USA
+https://stream.revma.ihrhls.com/zc2677
+#EXTINF:-1,   WMSE 91.7 FM - Milwaukee, WI_USA
+https://wmse.streamguys1.com/wmselivemp3
+#EXTINF:-1,   WMT News Talk 600 AM - Cedar Rapids, IA_USA
+https://stream.revma.ihrhls.com/zc917.m3u
+#EXTINF:-1,   WMVP ESPN 1000 AM-Chicago_USA
+https://live.wostreaming.net/playlist/goodkarma-wmvpammp3-ibc1.m3u
+#EXTINF:-1,   WMYX-HD3 Radio Caliente 97.9 - Milwaukee, WI_USA
+https://ice7.securenetsystems.net/WJTI.m3u
+#EXTINF:-1,   WNUR 89.3 FM - Chicago's Sound Experiment_USA
+https://n24a-eu.rcs.revma.com/w4pmmfkdx4zuv?rj-ttl=5&rj-tok=AAABgzLqLbcAVePxTwXpSBiQDg
+#EXTINF:-1,   WNVR Polskie Radio 1030/1300 AM - Chicago, IL_USA
+https://secure1.reliastream.com/polskieradio/;
+#EXTINF:-1,   WNWI Ethnic Station_USA
+http://wnwi.birach.com:9002/;stream.mp3
+#EXTINF:-1,   WNXP 91.1-Nashville TN_USA
+https://wpln.streamguys1.com/wnxpfm.mp3
+#EXTINF:-1,   WOJO W236CF Streetz 95.1 FM-Chicago,IL_USA
+http://104.6.216.93:8000/chitown
+#EXTINF:-1,   WOJO W236CG Streetz 95.1 FM-Chicago,IL_USA
+http://104.6.216.93:8000/chitown
+#EXTINF:-1,   WONC Pure Rock-Naperville,IL_USA
+http://webcast.wonc.org:8000/wonclive-96s
+#EXTINF:-1,   WPNA 103.1 AM - Chicago, IL_USA
+https://s4.yesstreaming.net:17078/stream
+#EXTINF:-1,   WPWX Power 92.3 FM - Chicago, IL_USA
+https://playerservices.streamtheworld.com/pls/WPWXFM.pls
+#EXTINF:-1,   WRNW The Game 97.3 FM - Milwaukee, WI_USA
+https://stream.revma.ihrhls.com/zc2685.m3u
+#EXTINF:-1,   WRTW The Key 90.5 FM - Hammond, IN_USA
+https://thekeyfm.com:8443/WRTW.m3u
+#EXTINF:-1,   WSFI Catholic Radio 88.5 FM - Antioch, IL_USA
+http://s4.myradiostream.com:8076/listen.pls
+#EXTINF:-1,   WSRB 106.3 Chicago's R&B - Lansing, IL_USA
+https://playerservices.streamtheworld.com/pls/WSRBFM.pls
+#EXTINF:-1,   WTMJ 620 AM/103.3 FM - Milwaukee, Wisconsin_USA
+https://playerservices.streamtheworld.com/pls/WTMJAM.pls
+#EXTINF:-1,   WTZI Calvary Radio 88.1-Chicago_USA
+http://radio3.citrus3.com:8044/;stream.mp3
+#EXTINF:-1,   WUWM 89.7 FM - Milwaukee Public Radio_USA
+https://wuwm.streamguys1.com/live.mp3.m3u
+#EXTINF:-1,   WVAZ 102.7 FM - V103 - Chicago, IL_USA
+https://stream.revma.ihrhls.com/zc865.m3u
+#EXTINF:-1,   WWSW 94.5 FM 3WS radio-Pittsburgh PA_USA
+https://stream.revma.ihrhls.com/zc2029.m3u
+#EXTINF:-1,   WXAV The X 88.3 FM - Chicago, IL_USA
+https://ic2.sslstream.com/wxav-fm.m3u
+#EXTINF:-1,   WXRW River West Radio 104.1 - Milwaukee, WI_USA
+https://radio.computer:8443/riverwestradio-hq
+#EXTINF:-1,   WYCA Rejoice 102.3 FM - Crete, IL
+https://playerservices.streamtheworld.com/pls/WYCAFM.pls
+#EXTINF:-1,   WYMS 88.9 FM - Milwaukee, WI_USA
+https://wyms.streamguys1.com/live?platform=88nine
+#EXTINF:-1,   WZTI Fonz-FM - Milwaukee, WI_USA
+https://ais-sa1.streamon.fm/7033_48k.aac
+#EXTINF:-1,   Wisconsin Public Radio - All Classical Network_USA
+https://wpr-ice.streamguys1.com/wpr-hd2-mp3-96
+#EXTINF:-1,   Wisconsin Public Radio - Ideas Network_USA
+https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
+#EXTINF:-1,   Wisconsin Public Radio - NPR News & Music_USA
+https://wpr-ice.streamguys1.com/wpr-music-mp3-96
+#EXTINF:-1,  BBN - Bible Broadcasting Network_USA
+https://stream2.bbnradio.org:8443/english.aac
+#EXTINF:-1,  BBN - Сеть Библейского Вещания_USA
+https://stream2.bbnradio.org:8443/russian.aac
+#EXTINF:-1,  CBS Charlotte NC (WBTV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_CBS_CHARLOTTE_NC_WBTV/tracks-v4a1/mono.m3u8
+#EXTINF:-1,  CBS Dallas TX (KTVT-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_DALLAS_TX_KTVT/tracks-v5a1/mono.m3u8
+#EXTINF:-1,  CBS Phoenix AZ (KPHO-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_PHOENIX_AZ_KPHO/tracks-v5a1/mono.m3u8
+#EXTINF:-1,  CBS Tampa FL (WTSP-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_TAMPA_FL_WTSP/tracks-v5a1/mono.m3u8
+#EXTINF:-1,  Pride Radio - USA
+https://stream.revma.ihrhls.com/zc3949.m3u
+#EXTINF:-1,*A list 80's
+http://prmstrm.1.fm:8000/back280s
+#EXTINF:-1,*Absolute 90's
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1,*Absolute Country Hits
+http://prmstrm.1.fm:8000/acountry
+#EXTINF:-1,*Absolute TOP 40 Radio
+http://prmstrm.1.fm:8000/top40
+#EXTINF:-1,*Absolute Trance
+http://prmstrm.1.fm:8000/trance
+#EXTINF:-1,*Acappella
+http://prmstrm.1.fm:8000/acpl
+#EXTINF:-1,*Adore Jazz
+http://prmstrm.1.fm:8000/ajazz
+#EXTINF:-1,*Adult Urban Hits Choice
+http://prmstrm.1.fm:8000/oldschool
+#EXTINF:-1,*Afterbeat Electronica
+http://prmstrm.1.fm:8000/electronica
+#EXTINF:-1,*All Euro 80's_90's
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1,*All Times & Urban Gospel
+http://prmstrm.1.fm:8000/gospel
+#EXTINF:-1,*Alternative Rock X Hits
+http://prmstrm.1.fm:8000/x
+#EXTINF:-1,*America's Best Ballads
+http://prmstrm.1.fm:8000/onelive
+#EXTINF:-1,*Amsterdam Trance
+http://prmstrm.1.fm:8000/atr
+#EXTINF:-1,*Back to the 50's,60's & 70's
+http://prmstrm.1.fm:8000/60s_70s
+#EXTINF:-1,*Bay Smooth Jazz Radio
+http://prmstrm.1.fm:8000/smoothjazz
+#EXTINF:-1,*Blues
+http://prmstrm.1.fm:8000/blues
+#EXTINF:-1,*Bombay Beats India
+http://prmstrm.1.fm:8000/bombaybeats
+#EXTINF:-1,*Chillout Costa Del Mar
+http://prmstrm.1.fm:8000/costadelmarchillout
+#EXTINF:-1,*Chillout Lounge
+http://prmstrm.1.fm:8000/chilloutlounge
+#EXTINF:-1,*Circuit Pride
+http://prmstrm.1.fm:8000/circuitpride
+#EXTINF:-1,*Classic Country
+http://prmstrm.1.fm:8000/ccountry
+#EXTINF:-1,*Classic Rock Replay
+http://prmstrm.1.fm:8000/crock
+#EXTINF:-1,*Club radio
+http://prmstrm.1.fm:8000/club
+#EXTINF:-1,*Country One
+http://prmstrm.1.fm:8000/country
+#EXTINF:-1,*Dance One
+http://prmstrm.1.fm:8000/dance
+#EXTINF:-1,*Deep House
+http://prmstrm.1.fm:8000/deephouse
+#EXTINF:-1,*Destination SPA
+http://prmstrm.1.fm:8000/spa
+#EXTINF:-1,*Disco ball 70's-80's
+http://prmstrm.1.fm:8000/disco
+#EXTINF:-1,*Dubstep Forward
+http://prmstrm.1.fm:8000/dubstep
+#EXTINF:-1,*Eternal Praise&Warship
+http://prmstrm.1.fm:8000/praise
+#EXTINF:-1,*Gorilla FM
+http://prmstrm.1.fm:8000/gorillafm
+#EXTINF:-1,*High Voltage
+http://prmstrm.1.fm:8000/highvoltage
+#EXTINF:-1,*Jamz
+http://prmstrm.1.fm:8000/jamz
+#EXTINF:-1,*Otto's Baroque Music
+http://prmstrm.1.fm:8000/baroque
+#EXTINF:-1,*Otto's Classical Music
+http://prmstrm.1.fm:8000/classical
+#EXTINF:-1,*Otto's Opera House Music
+http://prmstrm.1.fm:8000/opera
+#EXTINF:-1,1 AM radio
+https://ch.iptvmate.net/5e93340a24b4d75fef75a946.m3u8
+#EXTINF:-1,1 FM Absolute top 40
+https://ch.iptvmate.net/5e9335f724b4d75fef75aa0a.m3u8
+#EXTINF:-1,1 FM Amsterdam trance
+https://ch.iptvmate.net/5e9335f824b4d75fef75aa0c.m3u8
+#EXTINF:-1,1 FM Blues
+https://ch.iptvmate.net/5e9335f724b4d75fef75aa0b.m3u8
+#EXTINF:-1,1 FM Costa del mar
+https://ch.iptvmate.net/5e9335f924b4d75fef75aa0d.m3u8
+#EXTINF:-1,1580
+https://ch.iptvmate.net/5e93343624b4d75fef75a95a.m3u8
+#EXTINF:-1,2000 FM-Hard rock
+https://ch.iptvmate.net/5e93349924b4d75fef75a98b.m3u8
+#EXTINF:-1,3 AW MELBOURNE
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1,4 CRB 89.3 FM
+https://ch.iptvmate.net/5e93358a24b4d75fef75a9d4.m3u8
+#EXTINF:-1,4BBB 105.3-B105-Brisbane QLD_AU
+http://wzqld.scahw.com.au/live/4bbb_32.stream/playlist.m3u8
+#EXTINF:-1,80's Hairband
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+#EXTINF:-1,90's Alternative
+http://listen.livestreamingservice.com/181-90salt_128k.mp3
+#EXTINF:-1,90's Country
+http://listen.livestreamingservice.com/181-90scountry_128k.mp3
+#EXTINF:-1,90's Dance
+http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+#EXTINF:-1,90.1 radiosargentina
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1,906 NTWK Radio-Swiss
+https://ice09.fluidstream.net/906_main.aac.m3u
+#EXTINF:-1,A Tarde103.9 Salvador
+https://ch.iptvmate.net/5e93360a24b4d75fef75aa11.m3u8
+#EXTINF:-1,ABC 3LO 774 AM-Melbourne AU
+http://live-radio01.mediahubaustralia.com/3LRW/mp3/;
+#EXTINF:-1,ABC Jazz
+https://ch.iptvmate.net/5e93359924b4d75fef75a9d8.m3u8
+#EXTINF:-1,ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1,ABC radio Canberra
+https://ch.iptvmate.net/5e93359224b4d75fef75a9d5.m3u8
+#EXTINF:-1,ABC radio Sidney
+https://ch.iptvmate.net/5e93359424b4d75fef75a9d7.m3u8
+#EXTINF:-1,ARBO-Verkehrsradio
+http://live.datamatix.at:8022/;
+#EXTINF:-1,Ada radio-Ada
+http://94.130.196.243:9010/;stream.mp3
+#EXTINF:-1,Antena 1 FM 94.7
+https://ch.iptvmate.net/5e93360b24b4d75fef75aa12.m3u8
+#EXTINF:-1,Antena Satelor Brasov ROM
+http://stream2.srr.ro:8040/stream
+#EXTINF:-1,Antenne Kärnten
+http://live.antenne.at/ak.m3u
+#EXTINF:-1,Antenne Vorarlberg (Webradio)
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Arg-Mega 90.9 radio
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+#EXTINF:-1,Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1,Atlantic radio French
+https://ch.iptvmate.net/5e9356b744b71968b854bf32.m3u8
+#EXTINF:-1,Audio noir radio
+https://ch.iptvmate.net/5e93349f24b4d75fef75a98e.m3u8
+#EXTINF:-1,Awesome 80's
+http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+#EXTINF:-1,BBC 1 radio
+https://ch.iptvmate.net/5e93354324b4d75fef75a9b8.m3u8
+#EXTINF:-1,BBC 2 radio
+https://ch.iptvmate.net/5e93354824b4d75fef75a9ba.m3u8
+#EXTINF:-1,BBC 4 radio
+https://ch.iptvmate.net/5e93355024b4d75fef75a9bd.m3u8
+#EXTINF:-1,BBC World Service
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+#EXTINF:-1,BG radio Bulgaria
+http://stream.teracomm.bg:8000/1_rock.ogg
+#EXTINF:-1,BR Bayern 1 (Oberbayern)
+https://streams.br.de/bayern1obb_2.m3u
+#EXTINF:-1,Backyard BBQ
+https://ch.iptvmate.net/5e93341b24b4d75fef75a94e.m3u8
+#EXTINF:-1,Bartók rádió-Magyarország
+https://mr-stream.connectmedia.hu/4741/mr3.mp3
+#EXTINF:-1,Bayerischer Rundfunk - BR Heimat
+https://streams.br.de/brheimat_2.m3u
+#EXTINF:-1,Bayerischer Rundfunk - BR Klassik
+https://streams.br.de/br-klassik_2.m3u
+#EXTINF:-1,Bayerischer Rundfunk - BR24 in Radio
+https://streams.br.de/br24_2.m3u
+#EXTINF:-1,Bayerischer Rundfunk - Bayern 3
+https://streams.br.de/bayern3_2.m3u
+#EXTINF:-1,Bayern 2 Süd (Altbayern/Schwaben)
+https://streams.br.de/bayern2sued_2.m3u
+#EXTINF:-1,Beat junkie radio
+https://ch.iptvmate.net/5e93344d24b4d75fef75a965.m3u8
+#EXTINF:-1,Beatless
+http://listen.livestreamingservice.com/181-beatles_128k.mp3
+#EXTINF:-1,Bloomberg-New York_USA
+https://playerservices.streamtheworld.com/pls/WBBRAMAAC.pls
+#EXTINF:-1,Boca radio-Barcelona
+http://bocanord.qui.guifi.net:8000/bocaradio.mp3
+#EXTINF:-1,Bronka-Barcelona_España
+http://stream.nonfqdn.net:8000/rbronka.ogg
+#EXTINF:-1,Bump&grind
+https://ch.iptvmate.net/5e93344624b4d75fef75a962.m3u8
+#EXTINF:-1,Burnside radio 105.0 FM Swansea
+https://ch.iptvmate.net/5e93355f24b4d75fef75a9c0.m3u8
+#EXTINF:-1,Byte FM
+https://ch.iptvmate.net/5e9335a424b4d75fef75a9df.m3u8
+#EXTINF:-1,CBC music-Canada(Eastern time zone)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor.m3u
+#EXTINF:-1,CCMA iCat-Cataluña_España
+http://shoutcast.ccma.cat/ccma/icatHD.mp3
+#EXTINF:-1,CFEP Seaside 105.9-Halifax NS_Canada
+http://cassini.shoutca.st:8215/stream.m3u
+#EXTINF:-1,CFMJ Global news 640 AM-Toronto ON_Canada
+http://live.leanstream.co/CFMJAM-MP3.m3u
+#EXTINF:-1,CJGV Peggy 99.1-Winnipeg MB_Canada
+http://live.leanstream.co/CJGVFM-MP3.m3u
+#EXTINF:-1,CNA 938-Singapore
+https://playerservices.streamtheworld.com/pls/938NOW.pls
+#EXTINF:-1,COOL
+https://ch.iptvmate.net/5e93347224b4d75fef75a977.m3u8
+#EXTINF:-1,CORAX DE
+http://streaming.fueralle.org:8000/corax.mp3
+#EXTINF:-1,CPR Indie 102.3 Public-Colorado Springs_USA
+https://livestream.cprnetwork.org/pls/live_openair_mp3.pls
+#EXTINF:-1,Cadena 100-España
+http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
+#EXTINF:-1,Cadillac music
+https://ch.iptvmate.net/5e93340824b4d75fef75a945.m3u8
+#EXTINF:-1,Cannabis talk 101
+https://ch.iptvmate.net/5e93345124b4d75fef75a967.m3u8
+#EXTINF:-1,Cape talk 567 AM-Cape Town-South Africa
+https://playerservices.streamtheworld.com/pls/CAPE_TALK.pls
+#EXTINF:-1,Capital 95.8 London
+https://ch.iptvmate.net/5e93356024b4d75fef75a9c1.m3u8
+#EXTINF:-1,Casablanca radio Stuttgart
+https://ch.iptvmate.net/5e9335aa24b4d75fef75a9e0.m3u8
+#EXTINF:-1,Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1,Chilled Out
+http://listen.livestreamingservice.com/181-chilled_128k.mp3
+#EXTINF:-1,Church of rock&roll
+https://ch.iptvmate.net/5e93349124b4d75fef75a986.m3u8
+#EXTINF:-1,Cinescore
+https://ch.iptvmate.net/5e93349524b4d75fef75a988.m3u8
+#EXTINF:-1,City 23-Wien
+http://live.radiomax.technology/city23.m3u
+#EXTINF:-1,City Bulgaria
+http://stream.teracomm.bg:8000/city.ogg
+#EXTINF:-1,City FM 89-Karachi_Pakistan
+https://radio.cityfm89.com/stream
+#EXTINF:-1,Classic 105.2-Nairobi_Kenya
+https://streamingv2.shoutcast.com/classic105fm
+#EXTINF:-1,Classic Guitar
+http://listen.livestreamingservice.com/181-classicalguitar_128k.mp3
+#EXTINF:-1,Coles radio
+https://ch.iptvmate.net/5e93359b24b4d75fef75a9d9.m3u8
+#EXTINF:-1,Concerto
+https://ch.iptvmate.net/5e93347d24b4d75fef75a97c.m3u8
+#EXTINF:-1,Contrabanda  91.4-Barcelona_España
+http://www.contrabanda.org:8000/contrabanda
+#EXTINF:-1,Country 108 Berlin
+https://ch.iptvmate.net/5e9335ab24b4d75fef75a9e1.m3u8
+#EXTINF:-1,Cult radio-a go go
+https://ch.iptvmate.net/5e9334a624b4d75fef75a990.m3u8
+#EXTINF:-1,Curtin FM 100.1
+https://ch.iptvmate.net/5e93359b24b4d75fef75a9da.m3u8
+#EXTINF:-1,DR P1-Danmark
+http://live-icy.gss.dr.dk:8000/A/A03H.mp3.m3u
+#EXTINF:-1,DWYS Yes the best 101.1-Manilla_Phillipines
+https://s2.radio.co/sa85100da7/listen
+#EXTINF:-1,DYR 105.1-Durban_South Africa
+http://zas4.ndx.co.za/proxy/dyr?mp=/stream
+#EXTINF:-1,Dash 1
+https://ch.iptvmate.net/5e93341724b4d75fef75a94c.m3u8
+#EXTINF:-1,Dash Indie
+https://ch.iptvmate.net/5e93348d24b4d75fef75a984.m3u8
+#EXTINF:-1,Dash alternative
+https://ch.iptvmate.net/5e93347f24b4d75fef75a97d.m3u8
+#EXTINF:-1,Dash hits
+https://ch.iptvmate.net/5e93341d24b4d75fef75a94f.m3u8
+#EXTINF:-1,Deutschlandfunk Kultur
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
+#EXTINF:-1,Deutschlandfunk Nova
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
+#EXTINF:-1,Disco fever
+https://ch.iptvmate.net/5e93345724b4d75fef75a96a.m3u8
+#EXTINF:-1,Discover
+https://ch.iptvmate.net/5e93344424b4d75fef75a961.m3u8
+#EXTINF:-1,Djam radio
+https://ch.iptvmate.net/5e9335e224b4d75fef75aa00.m3u8
+#EXTINF:-1,Dynamis-España
+https://control.streaming-pro.com:8014/stream
+#EXTINF:-1,ERF Plus-Österreich
+http://stream.erf.at/erfplus_128
+#EXTINF:-1,ERF Süd - Südtirol
+https://control.internet-radio.com:2199/tunein/erfmedien.pls
+#EXTINF:-1,ERR"Vikerraadio"-Eesti
+http://icecast.err.ee/vikerraadio.mp3.m3u
+#EXTINF:-1,Eldorado 105 DE
+https://ch.iptvmate.net/5e9335b124b4d75fef75a9eb.m3u8
+#EXTINF:-1,Eldorado 80's
+https://ch.iptvmate.net/5e9335b224b4d75fef75a9ec.m3u8
+#EXTINF:-1,Eldorado 90's
+https://ch.iptvmate.net/5e9335b224b4d75fef75a9ed.m3u8
+#EXTINF:-1,Eldorado Chill
+https://ch.iptvmate.net/5e9335b324b4d75fef75a9ee.m3u8
+#EXTINF:-1,Eldorado Top 25
+https://ch.iptvmate.net/5e9335b324b4d75fef75a9ef.m3u8
+#EXTINF:-1,Energy 104.2-Wien
+http://stream1.energy.at:8000/vie.m3u
+#EXTINF:-1,Energy Bern 101.7 FM
+http://energybern.ice.infomaniak.ch/energybern-high.mp3
+#EXTINF:-1,Energy Bulgaria
+http://stream.teracomm.bg:8000/energy.ogg
+#EXTINF:-1,Energy Luzern
+http://energyluzern.ice.infomaniak.ch/energyluzern-high.mp3
+#EXTINF:-1,Energy Zürich 100.9 FM
+http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1,Euphoria
+https://ch.iptvmate.net/5e93343424b4d75fef75a959.m3u8
+#EXTINF:-1,Europa 2-Slovensko
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,FSN-Balladen DE
+https://ch.iptvmate.net/5e9335b924b4d75fef75a9f1.m3u8
+#EXTINF:-1,FSN-Black metal
+https://ch.iptvmate.net/5e9335be24b4d75fef75a9f2.m3u8
+#EXTINF:-1,FSN-Hardcore
+https://ch.iptvmate.net/5e9335c324b4d75fef75a9f3.m3u8
+#EXTINF:-1,FSN-Rock
+https://ch.iptvmate.net/5e9335c924b4d75fef75a9f5.m3u8
+#EXTINF:-1,Fame 95 FM-Kingston_Jamaica
+https://stream-24.zeno.fm/wbsd59gcgy5tv?zs=7LJOX57FQcSN-sWjaTzZyg
+#EXTINF:-1,Flaix 105.7 FM-Barcelona_España
+https://nodo06-cloud01.streaming-pro.com:8001/flaixfm.mp3
+#EXTINF:-1,Flaixbac 106.1-Barcelona_España
+https://nodo07-cloud01.streaming-pro.com:8005/flaixbac.mp3
+#EXTINF:-1,Flava-Auckland_New Zealand
+https://ais-nzme.streamguys1.com/nz_010/playlist.m3u8
+#EXTINF:-1,Forces radio BFBS-UK
+http://direct.sharp-stream.com/ssvcbfbs1.mp3
+#EXTINF:-1,Fresh Bulgaria
+http://stream.teracomm.bg:8000/fresh.ogg
+#EXTINF:-1,Fuego
+https://ch.iptvmate.net/5e93340c24b4d75fef75a947.m3u8
+#EXTINF:-1,Fun rádio-Slovensko
+http://stream.funradio.sk:8000/fun64.mp3.m3u
+#EXTINF:-1,FunX Den Haag
+https://ch.iptvmate.net/5e9335ca24b4d75fef75a9f8.m3u8
+#EXTINF:-1,FunX Latin
+https://ch.iptvmate.net/5e9335ca24b4d75fef75a9fb.m3u8
+#EXTINF:-1,FunX hip hop
+https://ch.iptvmate.net/5e9335ca24b4d75fef75a9fa.m3u8
+#EXTINF:-1,Galaxy 92 FM-Atina
+http://live.thegreekradio.com/galaxy9292.pls
+#EXTINF:-1,Goldies 107.9 FM Sint-NiklaasNL
+https://ch.iptvmate.net/5e9335e024b4d75fef75a9fe.m3u8
+#EXTINF:-1,Harborough FM 102.3
+https://ch.iptvmate.net/5e93357524b4d75fef75a9c3.m3u8
+#EXTINF:-1,Heart 106.2 FM  London
+https://ch.iptvmate.net/5e93357524b4d75fef75a9c4.m3u8
+#EXTINF:-1,Hit radio Ö3-Österreich
+https://ors-sn03.ors-shoutcast.at/oe3-q2a.m3u
+#EXTINF:-1,Horror+halloween radio
+https://ch.iptvmate.net/5e9334ac24b4d75fef75a993.m3u8
+#EXTINF:-1,I Craft radio-T-boz
+https://ch.iptvmate.net/5e93344b24b4d75fef75a964.m3u8
+#EXTINF:-1,I love radio
+http://138.201.252.232:80/iloveradio2.mp3
+#EXTINF:-1,Imperio
+https://ch.iptvmate.net/5e93344224b4d75fef75a960.m3u8
+#EXTINF:-1,Independent grind
+https://ch.iptvmate.net/5e93343c24b4d75fef75a95d.m3u8
+#EXTINF:-1,Island block
+https://ch.iptvmate.net/5e93347624b4d75fef75a979.m3u8
+#EXTINF:-1,Island vibes radio
+https://ch.iptvmate.net/5e93357b24b4d75fef75a9ce.m3u8
+#EXTINF:-1,Jahani radio
+https://ch.iptvmate.net/5e93357724b4d75fef75a9ca.m3u8
+#EXTINF:-1,Jewish music stream
+https://ch.iptvmate.net/5e9334b124b4d75fef75a997.m3u8
+#EXTINF:-1,JÖ Club radio DAB+-Österreich
+http://clubradio.joelive.at/clubradio.mp3.m3u
+#EXTINF:-1,KCRW 104 1 FM Berlin
+https://ch.iptvmate.net/5e9335ac24b4d75fef75a9e3.m3u8
+#EXTINF:-1,Kanal 106.9-Barcelona_España
+https://radioserver10.profesionalhosting.com:60970/stream
+#EXTINF:-1,Katra Bulgaria
+http://stream.teracomm.bg:8000/katra.ogg
+#EXTINF:-1,Kiss FM-España
+https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDYvMTcvMjAyMiAxMjo1NDo1NSBQTSZoYXNoX3ZhbHVlPWlTUlhWNmliMzJxVTVZNFJqUzVFWkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MDA5NzA=
+#EXTINF:-1,Klassik radio-Österreich
+https://edge14.streams.klassikradio.de/klassikradio-oesterreich?aggregator=Radiomapeu
+#EXTINF:-1,Krone hit-Österreich
+https://secureonair.krone.at/kronehit1058.mp3
+#EXTINF:-1,LA ISLA
+https://ch.iptvmate.net/5e93343024b4d75fef75a958.m3u8
+#EXTINF:-1,LBC 97.3-London_UK
+https://media-ice.musicradio.com/LBCLondonMP3Low.m3u
+#EXTINF:-1,Lamarina FM-Barcelona_Espana
+http://endirecte.amcl.cat:8000/lamarinafm
+#EXTINF:-1,Latino-Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+#EXTINF:-1,Latvijas Radio 1
+http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1,Latvijas radio 106.1
+http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1,Latvijas radio klasika
+http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1,Laut FM
+https://ch.iptvmate.net/5e9335ae24b4d75fef75a9e4.m3u8
+#EXTINF:-1,Los anarchy
+https://ch.iptvmate.net/5e93347a24b4d75fef75a97b.m3u8
+#EXTINF:-1,Love songs
+https://ch.iptvmate.net/5e93349724b4d75fef75a989.m3u8
+#EXTINF:-1,Lulu FM 104.1-Berlin
+https://s38.derstream.net/lulufm.mp3.m3u
+#EXTINF:-1,MDR
+http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Jump in the mix
+http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3
+#EXTINF:-1,MDR Rock channel
+http://mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3
+#EXTINF:-1,MDR SACHSEN-ANHALT
+http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Sputnik
+http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Sputnik popcult
+http://mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3
+#EXTINF:-1,MDR Sputnik soundcheck
+http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
+#EXTINF:-1,MDR Trendchannel
+http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+#EXTINF:-1,Max Rio-music
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
+#EXTINF:-1,Maxima FM 87.9
+https://ch.iptvmate.net/5e93362824b4d75fef75aa15.m3u8
+#EXTINF:-1,Mindesverzehr radio
+https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
+#EXTINF:-1,Mix-Malaysia
+http://astro2.rastream.com/mix
+#EXTINF:-1,Mondo bongo radio
+https://ch.iptvmate.net/5e93357624b4d75fef75a9c6.m3u8
+#EXTINF:-1,Monstercat
+https://ch.iptvmate.net/5e93344024b4d75fef75a95f.m3u8
+#EXTINF:-1,Moonlight
+https://ch.iptvmate.net/5e93341924b4d75fef75a94d.m3u8
+#EXTINF:-1,Muravidéki Magyar Rádió-Szlovénia
+http://mp3.rtvslo.si/mmr.m3u
+#EXTINF:-1,Music Club Radio - Monaco
+https://gs5028.streamingmedia.it/stream
+#EXTINF:-1,My Hits-Eesti
+https://le04.euddn.net/0d577144e2728c6dce451d1b37aa8dbb69426c379eb9670f0dec255515ed7f28180afa1878cd4d2b33ffb1e399ba1639258c9e038d7348dfbc55ccec94ab5ad190a0fae2860f1f4ed08e1edeb254d86c8974b3e38efde4a97b52a9e605239e5d22c017dca599cbebea40341c1e3bb6958aade263111c3bc5b34e2599e0fd92f66cac2f5f5caef8016d7884a920cb1ba7fe7c4fa511ded0a17c2aaba788290173287d606f1dbf45aa9a8473cbea0863ca/myhits.aac
+#EXTINF:-1,Native rhymes
+https://ch.iptvmate.net/5e93345324b4d75fef75a968.m3u8
+#EXTINF:-1,Nova 106.9 Brisbane
+https://ch.iptvmate.net/5e93359e24b4d75fef75a9dc.m3u8
+#EXTINF:-1,Now radio ERF+-Österreich
+http://stream.erf.at/erfplus_128
+#EXTINF:-1,ORF Slovenski spored-Koroška
+https://ors-sn03.ors-shoutcast.at/slo-q2a.m3u
+#EXTINF:-1,Odd future radio
+https://ch.iptvmate.net/5e93343e24b4d75fef75a95e.m3u8
+#EXTINF:-1,Old time radio-Amazing tales
+https://ch.iptvmate.net/5e9334e724b4d75fef75a99e.m3u8
+#EXTINF:-1,Old time radio-Crimetime
+https://ch.iptvmate.net/5e9334e724b4d75fef75a99f.m3u8
+#EXTINF:-1,Ona mar-Badalona_España
+https://streaming.enacast.com/onamar128.mp3
+#EXTINF:-1,Onda cero-España
+https://live-audio.ondacero.es/radio/ondacero/master.m3u8
+#EXTINF:-1,One Dance FM - Ticino
+https://ice15.fluidstream.net/onedancech.aac.m3u
+#EXTINF:-1,Orange 94.0-Wien
+https://securestream.o94.at/live.mp3.m3u
+#EXTINF:-1,PIK Classic-Cuprus
+https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1,PSR Chartbreaker DE
+http://regiocast.hoerradar.de/psr-chartbreaker-mp3-hq
+#EXTINF:-1,PSR Partymix DE
+http://regiocast.hoerradar.de/psr-partymix-mp3-hq
+#EXTINF:-1,PSR Sinlos -telefon
+http://regiocast.hoerradar.de/psr-sinnlostelefon-mp3-hq
+#EXTINF:-1,PSR radio DE
+http://regiocast.hoerradar.de/psr-live-mp3-hq
+#EXTINF:-1,PT Antena 1 radio
+http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,Pannon radio-Szabadka(Crveno selo)HUN
+http://stream2.nmih.hu:4120/;stream.mp3
+#EXTINF:-1,Paz FM 89.5 Golania
+https://ch.iptvmate.net/5e93362924b4d75fef75aa.m3u8
+#EXTINF:-1,Pernik Bulgaria
+http://stream.teracomm.bg:8000/ultra_pernik.ogg
+#EXTINF:-1,Petrich Sandanski Bulgaria
+http://stream.teracomm.bg:8000/ultra_petrichsandanski.ogg
+#EXTINF:-1,Pigpen radio
+https://ch.iptvmate.net/5e93357724b4d75fef75a9c7.m3u8
+#EXTINF:-1,Poland radio DAB+
+https://stream85.polskieradio.pl/pr5/pr5_dab.sdp/playlist.m3u8
+#EXTINF:-1,Polski radio Dzieciom
+https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio 24
+https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio Chopin
+https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio Czwórka
+https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio Dwójka
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio Olsztyn
+http://54.38.52.115:8000/RO
+#EXTINF:-1,Polskie radio jedynka
+https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+#EXTINF:-1,Polskie radio trójka
+https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+#EXTINF:-1,Pop FM 100.0 Copenhagen
+https://ch.iptvmate.net/5e9335d024b4d75fef75a9fd.m3u8
+#EXTINF:-1,Premier Christian 1332 AM London
+https://ch.iptvmate.net/5e93357724b4d75fef75a9c9.m3u8
+#EXTINF:-1,Puls radio dance
+https://ch.iptvmate.net/5e9335e624b4d75fef75aa09.m3u8
+#EXTINF:-1,Pure soul-Isaac Hayes(Dash radio)
+https://ch.iptvmate.net/5e93342324b4d75fef75a952.m3u8
+#EXTINF:-1,Quality control
+https://ch.iptvmate.net/5e93347424b4d75fef75a978.m3u8
+#EXTINF:-1,RAC 105-Cataluña_España
+https://25453.live.streamtheworld.com/RAC105.mp3
+#EXTINF:-1,RNE radio nacional-Cataluña_España
+https://crtve--di--crtve-ice--02--cdn.cast.addradio.de/crtve/rne1/cat/mp3/high?_art=dj0yJmlwPTE3OC4yMjMuMjM4LjIwNCZpZD1pY3NjeGwtd3oyM3hzNG9iJnQ9MTY1NTU1NTY1MCZzPTc4NjZmMjljIzE4OTBhOWNmMjYzOTZjZGNlN2ViN2JlMDU2NzcwNTlk
+#EXTINF:-1,RNZ National-Wellington_New Zealand
+http://radionz-ice.streamguys.com/national.mp3.m3u
+#EXTINF:-1,RSI Rete Due - Svizzera italiana
+http://stream.srg-ssr.ch/m/retedue/mp3_128.m3u
+#EXTINF:-1,RSI Rete Tre - Svizzera italiana
+http://stream.srg-ssr.ch/m/retetre/mp3_128.m3u
+#EXTINF:-1,RSI Rete Uno - Svizzera italiana
+http://stream.srg-ssr.ch/m/reteuno/mp3_128.m3u
+#EXTINF:-1,RTL - France
+https://icecast.rtl.fr/rtl-1-44-128
+#EXTINF:-1,RTL radio Letzebuerg DE
+https://ch.iptvmate.net/5e9335b124b4d75fef75a9ea.m3u8
+#EXTINF:-1,Radio 2.0 - Bergamo
+https://vps.radioduepuntozero.it/stream.mp3
+#EXTINF:-1,Radio 2000_98.7 FM-Südtirol
+http://159.69.217.78:8000/?radio=radio2000.mp3
+#EXTINF:-1,Radio 24 - Zürich 102.8 FM
+https://icecast.radio24.ch/radio24-rc-96-aac
+#EXTINF:-1,Radio Central - Zentralschweiz
+https://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3
+#EXTINF:-1,Radio Club FM - Tirana 100.4 MHz
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:-1,Radio Die Antenne - Südtirol
+https://stream.dieantenne.it:8443/
+#EXTINF:-1,Radio Dolomiti - Trento, Italia
+http://streaming.radiodolomiti.com:8068/listen.pls
+#EXTINF:-1,Radio FM4-Österreich
+https://ors-sn03.ors-shoutcast.at/fm4-q2a.m3u
+#EXTINF:-1,Radio Freundes-Dienst - Schweiz
+http://radiofd.ice.infomaniak.ch/radiofd.mp3
+#EXTINF:-1,Radio Gherdëina Dolomites - Urtijëi
+http://sr1.inmystream.info:8090/listen.pls
+#EXTINF:-1,Radio Grüne Welle - Südtirol
+https://nr11.newradio.it:19196/rgwhigh
+#EXTINF:-1,Radio Hamburg 103.6 MHz UKW
+https://edge64.streamonkey.net/rhh-1036
+#EXTINF:-1,Radio Mars
+https://ch.iptvmate.net/5e9356b744b71968b854bf34.m3u8
+#EXTINF:-1,Radio Maxxima - Genève, Suisse
+http://maxxima.mine.nu:8080/maxxima.mp3.m3u
+#EXTINF:-1,Radio Melody - Schweiz
+https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
+#EXTINF:-1,Radio Paradiso - Berlin 98.2 MHz
+https://paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878?sABC=62pr8rss%230%231640121n97nn9qo9r3p2n1p3s05oq5qq%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1657704191
+#EXTINF:-1,Radio Pilatus - Luzern, Schweiz
+https://www.radiopilatus.ch/streams/pilatus128.m3u
+#EXTINF:-1,Radio RTR - Swiss
+http://stream.srg-ssr.ch/m/rr/mp3_128.m3u
+#EXTINF:-1,Radio SRF 1 - Schweiz
+http://stream.srg-ssr.ch/m/drs1/mp3_128.m3u
+#EXTINF:-1,Radio SRF Musikwelle - Schweiz
+http://stream.srg-ssr.ch/m/drsmw/mp3_128.m3u
+#EXTINF:-1,Radio Sonnenschein 95.4 FM-Südtirol
+http://195.201.227.227:18011/;stream.mp3
+#EXTINF:-1,Radio Stad - Antwerpen 107.8 FM
+https://shoutcast2.wirelessantwerpen.be/stad/live
+#EXTINF:-1,Radio Svizzera Classica - Svizzera
+http://stream.srg-ssr.ch/m/rsc_it/mp3_128.m3u
+#EXTINF:-1,Radio Swiss Classic - Schweiz
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128.m3u
+#EXTINF:-1,Radio Swiss Jazz - Switzerland
+http://stream.srg-ssr.ch/m/rsj/mp3_128.m3u
+#EXTINF:-1,Radio Swiss Jazz - Switzerland
+http://stream.srg-ssr.ch/m/rsj/mp3_128.m3u
+#EXTINF:-1,Radio Swiss Pop - Switzerland
+http://stream.srg-ssr.ch/m/rsp/mp3_128.m3u
+#EXTINF:-1,Radio Südostschweiz
+https://radiostream.suedostschweiz.ch/m/grischa/aacp_96.m3u
+#EXTINF:-1,Radio Teddy - Berlin 90.2 FM
+https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268?sABC=62pr8pn9%231%23grqql-yvir-zc3-zd%23enqvbcynlre_jro&aw_0_1st.playerid=radioplayer_web&amsparams=playerid:radioplayer_web;skey:1657703593
+#EXTINF:-1,Radio Tirol - Österreich
+https://ors-sn03.ors-shoutcast.at/tir-q2a.m3u
+#EXTINF:-1,Radio Top - Zürich, Schweiz
+http://icecast.radiotop.ch/radiotop_128.m3u
+#EXTINF:-1,Radio Top Two - Zürich, Schweiz
+http://icecast.radiotop.ch/toptwo_128.m3u
+#EXTINF:-1,Radio Télévision Suisse - La 1ère
+http://stream.srg-ssr.ch/m/la-1ere/mp3_128.m3u
+#EXTINF:-1,Radio Télévision Suisse - Option Musique
+http://stream.srg-ssr.ch/m/option-musique/mp3_128.m3u
+#EXTINF:-1,Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1,Radio paradise
+https://ch.iptvmate.net/5e93357a24b4d75fef75a9cb.m3u8
+#EXTINF:-1,Radio Österreich 1
+https://ors-sn03.ors-shoutcast.at/oe1-q2a.m3u
+#EXTINF:-1,Radio"88.6"-Wien
+http://edge66.streamonkey.net/radio886-onair/stream/mp3
+#EXTINF:-1,Radio"Arabella Gold"-Österreich
+https://static.arabella.at/streamadressen/arabella-gold.m3u
+#EXTINF:-1,Radio"Arabella Hot"-Österreich
+https://static.arabella.at/streamadressen/arabella-hot.m3u
+#EXTINF:-1,Radio"Arabella relax"-Österreich
+https://static.arabella.at/streamadressen/arabella-relax.m3u
+#EXTINF:-1,Radio"Arabella"-Wien
+https://static.arabella.at/streamadressen/arabella-wien.m3u
+#EXTINF:-1,Radio"Austria"-Österreich
+https://onair.securestream.radioaustria.at/radioaustria.m3u
+#EXTINF:-1,Radio"Burgenland-Österreich
+https://ors-sn03.ors-shoutcast.at/bgl-q2a.m3u
+#EXTINF:-1,Radio"Elmar"-Eesti
+https://le08.euddn.net/3c20ab46aec59a453aa54b6f4a52afabc63335f81c55cbbba48393ee99b19b7f32aec60438fac1f94c512806746c454c3d658e9e1d0652dcc78a3206303d2cbb5fcb2bf435b653bc3ff662845506b24983ecbebd27441d5f6f44f6deec4859a0938ef225f66f3dc5cec60dd1e10eab3077585a808f6b7ae0ffb919dabdca6b4a5a0db0da40c0866525a1ad192ee906e09e67b8348415bec0e6a2f78aed49c9dc32666a39ce731f2c6e9598e9a7e6cb52/elmar.aac
+#EXTINF:-1,Radio"Fantasy mix"-Wien_Österreich
+https://stream2.radiodienst.de/proxy/fantasy/fantasy
+#EXTINF:-1,Radio"Flamingo"-Österreich
+https://live.antenne.at/rf
+#EXTINF:-1,Radio"Kärnten"-Österreich
+https://ors-sn03.ors-shoutcast.at/ktn-q2a.m3u
+#EXTINF:-1,Radio"Lounge FM"-Wien
+https://s35.derstream.net/ukwwien.mp3
+#EXTINF:-1,Radio"Niederösterreich-Österreich
+https://ors-sn03.ors-shoutcast.at/noe-q2a.m3u
+#EXTINF:-1,Radio"Nova"-Suomi(Finland)
+https://stream.bauermedia.fi/radionova/radionova_128.mp3
+#EXTINF:-1,Radio"Radieschen" 91.3-Wien
+https://radioradieschen.stream.kapper.net/radioradieschen.m3u
+#EXTINF:-1,Radio"SOL"-Wien_Österreich
+http://sol.anw.at:8023/stream
+#EXTINF:-1,Radio"Superfly"98.3-Wien
+http://stream01.superfly.fm:8080/live128.m3u
+#EXTINF:-1,Radio"Technikum one"-Österreich
+https://stream.radiotechnikum.at/TECHONE.m3u
+#EXTINF:-1,Radio"VM1-Wien DAB+
+https://radiovm1.fluidstream.eu/radiovm1.mp3
+#EXTINF:-1,Radio"ZET"-Poland
+https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1,Ratpack
+https://ch.iptvmate.net/5e93345d24b4d75fef75a96d.m3u8
+#EXTINF:-1,Real-Colombo_Sri Lanka
+http://s3.voscast.com:8406/;stream.mp3
+#EXTINF:-1,Red cup
+https://ch.iptvmate.net/5e93348124b4d75fef75a97e.m3u8
+#EXTINF:-1,Reggae Trade
+http://prmstrm.1.fm:8000/reggae
+#EXTINF:-1,Reggae jam-Cvs radio1
+https://ch.iptvmate.net/5e9334a624b4d75fef75a991.m3u8
+#EXTINF:-1,Reggae king
+https://ch.iptvmate.net/5e93348724b4d75fef75a981.m3u8
+#EXTINF:-1,Retro Rádió - Magyarország
+https://icast.connectmedia.hu/5001/live.mp3
+#EXTINF:-1,Retro hits
+https://ch.iptvmate.net/5e93352c24b4d75fef75a9af.m3u8
+#EXTINF:-1,Rinse FM
+https://ch.iptvmate.net/5e93344824b4d75fef75a963.m3u8
+#EXTINF:-1,Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1,Rock FM-España
+http://flucast-b04-05.flumotion.com/cope/rockfm-low.mp3
+#EXTINF:-1,Rádio Vina 101.8-Bratislava
+https://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1,SABC channel Africa-Johannesburg_South Africa
+https://playerservices.streamtheworld.com/pls/CA247.pls
+#EXTINF:-1,SAW NEUHEITEN DE
+http://saw-de-hz-fal-stream02-cluster01.radiohost.de/saw-neuheiten_128
+#EXTINF:-1,SAW radio DE
+http://saw-de-hz-fal-stream07-cluster01.radiohost.de/saw_128
+#EXTINF:-1,SDN Cruise 1323 AM-Adelaide SA_AU
+http://ais-arn.streamguys1.com/au_008_icy
+#EXTINF:-1,Sheffield web radio
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1,Shkodra 7 Nord 97.5-Albania
+http://radio-7.net/live7nord/?pl=winamp&c=Radio%207%20Nord
+#EXTINF:-1,Silk 106.9 FM
+https://ch.iptvmate.net/5e93357a24b4d75fef75a9cc.m3u8
+#EXTINF:-1,Sunshine Radio - Zentralschweiz
+http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
+#EXTINF:-1,Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTINF:-1,Svobodni radio Agora-Koroška
+https://livestream.agora.at/agora.m3u
+#EXTINF:-1,Swing
+https://ch.iptvmate.net/5e93345b24b4d75fef75a96c.m3u8
+#EXTINF:-1,Swiss jazz
+https://ch.iptvmate.net/5e9335f924b4d75fef75aa0e.m3u8
+#EXTINF:-1,Südtirol 1_100.0 FM
+http://str2.creacast.com/sudtirol1a
+#EXTINF:-1,Territory 104.1 Darwin
+https://ch.iptvmate.net/5e9335a224b4d75fef75a9dd.m3u8
+#EXTINF:-1,The Shane show
+https://ch.iptvmate.net/5e93341524b4d75fef75a94b.m3u8
+#EXTINF:-1,The Wave-St Lucia
+http://ice66.securenetsystems.net/THEWAVE.m3u
+#EXTINF:-1,The bridge
+https://ch.iptvmate.net/5e93348524b4d75fef75a980.m3u8
+#EXTINF:-1,The city
+https://ch.iptvmate.net/5e93345924b4d75fef75a96b.m3u8
+#EXTINF:-1,The cross
+https://ch.iptvmate.net/5e93348b24b4d75fef75a983.m3u8
+#EXTINF:-1,The cut
+https://ch.iptvmate.net/5e93345f24b4d75fef75a96e.m3u8
+#EXTINF:-1,The oldies
+https://ch.iptvmate.net/5e93344f24b4d75fef75a966.m3u8
+#EXTINF:-1,The power station
+https://ch.iptvmate.net/5e93357b24b4d75fef75a9ce.m3u8
+#EXTINF:-1,The ranch
+https://ch.iptvmate.net/5e93348924b4d75fef75a982.m3u8
+#EXTINF:-1,The strip
+https://ch.iptvmate.net/5e93349324b4d75fef75a987.m3u8
+#EXTINF:-1,Veronika Bulgaria
+http://stream.teracomm.bg:8000/veronika.ogg
+#EXTINF:-1,Vintage Radio - Schweiz
+http://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:-1,WAUK 540 AM / The ‘Sha 101 FM - Milwaukee, WI_USA
+https://ice23.securenetsystems.net/WAUK.m3u
+#EXTINF:-1,WDR Die Sendung mit der Maus
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+#EXTINF:-1,WLOY Loyola radio
+https://ch.iptvmate.net/5e93351024b4d75fef75a9a8.m3u8
+#EXTINF:-1,WRIT 95.7 Big FM - Milwaukee, WI_USA
+https://stream.revma.ihrhls.com/zc2689.m3u
+#EXTINF:-1,Welle1-Österreich
+https://live.welle1.at:19000/live
+#EXTINF:-1,What the funk
+https://ch.iptvmate.net/5e93342c24b4d75fef75a956.m3u8
+#EXTINF:-1,XXL radio
+https://ch.iptvmate.net/5e93341024b4d75fef75a949.m3u8
+#EXTINF:-1,Y2K
+https://ch.iptvmate.net/5e93340e24b4d75fef75a948.m3u8
+#EXTINF:-1,YG Presents
+https://ch.iptvmate.net/5e93348324b4d75fef75a97f.m3u8
+#EXTINF:-1,Young money
+https://ch.iptvmate.net/5e93340624b4d75fef75a944.m3u8
+#EXTINF:-1,ch Electro city
+https://ch.iptvmate.net/5e93341324b4d75fef75a94a.m3u8
+#EXTINF:-1,eRadio one blue
+https://ch.iptvmate.net/5e9335ab24b4d75fef75a9e2.m3u8
+#EXTINF:-1,radio 7-Fushe Kosove-Kosovo Polje
+http://cp1.sednastream.com:8028/live
+#EXTINF:-1,radio Gutt laun 96.6 FM
+https://ch.iptvmate.net/5e9335b124b4d75fef75a9e9.m3u8
+#EXTINF:-1,radio PSR Welhnachst-Superhits
+https://ch.iptvmate.net/5e9335b124b4d75fef75a9e8.m3u8
+#EXTINF:-1,radio Teleboston
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1,radio Van
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1,rbb 88.8 - Berlin
+http://www.rbb888.de/live.pls
+#EXTINF:-1,rockXradio
+https://ch.iptvmate.net/5e93352c24b4d75fef75a9b0.m3u8
+#EXTINF:-1,Český rozhlas Rádiožurnál
+https://rozhlas.stream/radiozurnal_aac_128.aac.m3u
+#EXTINF:-1,БНР Стара Загора-Бьлгария
+https://e106-ts.cdn.bg/regstations/fls/StZagora.stream/playlist.m3u8
+#EXTINF:-1,Радио FM+ -Бьлгария
+http://193.108.24.21:8000/fmplus
+#EXTINF:-1,Радио Витоша 97.6-Бьлгария
+https://bss1.neterra.tv/vitosha/vitosha.m3u8
+#EXTINF:-1,Радио Народная Волна 1430 AM - Чикаго_USA
+https://wzru.radioca.st/stream
